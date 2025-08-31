@@ -10,7 +10,7 @@
 ## Overview
 This repository showcases **Lyes Boudjabout's** blockchain security expertise through detailed audits of smart contracts. It includes vulnerability assessments, mitigation strategies, and lessons learned. The goal is to provide transparency on the auditing process and demonstrate capability in securing decentralized applications.
 
-## Audit Samples
+## Audit Reports
 ### Project 1: [Password Store](https://github.com/Cyfrin/3-passwordstore-audit)
 - **Scope:** Smart contract for storing and retrieving a password.  
 - **Findings (Highlights):**  
