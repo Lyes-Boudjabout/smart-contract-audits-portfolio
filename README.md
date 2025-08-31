@@ -2,6 +2,11 @@
 
 ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
+## Lyes Boudjabout
+
+-  **Smart Contract Security Auditor** <br clear="both" />
+-  **Full-Stack Web3 Developer** <br clear="both" />
+
 ## Overview
 This repository showcases **Lyes Boudjabout's** blockchain security expertise through detailed audits of smart contracts. It includes vulnerability assessments, mitigation strategies, and lessons learned. The goal is to provide transparency on the auditing process and demonstrate capability in securing decentralized applications.
 
