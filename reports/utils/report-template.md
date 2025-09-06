@@ -56,7 +56,10 @@ header-includes:
   - [Issues found](#issues-found)
 - [Findings](#findings)
 - [High](#high)
-- [Low Risk Findings](#low-risk-findings)
+- [Medium](#medium)
+- [Low](#low)
+- [Informational](#informational)
+- [Gas](#gas)
 
 # Protocol Summary
 
@@ -101,5 +104,9 @@ I use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate-
 | Gas Optimizations | X                      |
 | Total             | X                      |
 
-## Findings
-
+## **Findings**
+## High
+## Medium
+## Low 
+## Informational
+## Gas 
